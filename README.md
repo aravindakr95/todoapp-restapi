@@ -1,7 +1,7 @@
-#Todo REST API Implementation
+# Todo REST API Implementation
 
 
-##Introduction
+## Introduction
 
 In here i have implemented a RESTfulAPI using nodeJs Express and MongoDB (to store data) for perform CRUD (create,read,update,delete) operations that can uses for a simple todo application. (further more refer the <b>package.json</b> dependencies)
 
@@ -16,16 +16,16 @@ Simply CREATE (POST) for sending a request to server, READ (GET) for fetch data 
 
 A sample server link - <a href="http://104.206.242.130:28960/todos">click here</a>
 
-###Examples
+### Examples
 
-#####CREATE TODO
+##### CREATE TODO
 
 Request Type - **POST** <br>
 `http://104.206.242.130:28960/todos`
 
 <img src="https://i.imgur.com/hUyrM68.png" width="500" height="300">
 
-#####RETRIEVE TODOS
+##### RETRIEVE TODOS
 
 Request Type - **GET** <br>
 `http://104.206.242.130:28960/todos`
