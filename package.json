@@ -1,0 +1,32 @@
+{
+  "name": "todoapi",
+  "version": "1.0.1",
+  "description": "todo restful api implementation",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "debug": "~2.6.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindarr/todoapp-restapi.git"
+  },
+  "keywords": [
+    "todo",
+    "rest",
+    "api"
+  ],
+  "author": "aravinda rathnayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindarr/todoapp-restapi/issues"
+  },
+  "homepage": "https://github.com/aravindarr/todoapp-restapi#readme"
+}
